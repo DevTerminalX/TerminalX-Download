@@ -78,7 +78,7 @@ Design TerminalX logo
 📣 Contact
 Updates and announcements will be posted on the TerminalX GitHub and X profile.
 Screenshotes of the app
-<img width="921" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a9b7212-8a3c-4378-8818-dc8d00466fc7" />
-<img width="921" height="1024" alt="image" src="https://github.com/user-attachments/assets/033795d7-7d5e-4e60-8406-6ce7f518ebc5" />
-<img width="921" height="1024" alt="image" src="https://github.com/user-attachments/assets/01b96140-4f72-4423-92ee-4f96fd40f6ab" />
+<img width="411" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a9b7212-8a3c-4378-8818-dc8d00466fc7" />
+<img width="411" height="1024" alt="image" src="https://github.com/user-attachments/assets/033795d7-7d5e-4e60-8406-6ce7f518ebc5" />
+<img width="411" height="1024" alt="image" src="https://github.com/user-attachments/assets/01b96140-4f72-4423-92ee-4f96fd40f6ab" />
 
