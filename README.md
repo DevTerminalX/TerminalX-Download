@@ -1,2 +1,76 @@
-# TerminalX-Download
-TerminalX is a clean, modern terminal environment for Android.  Built for speed, simplicity, and everyday use with a fully original design.
+# TerminalX — Modern Terminal Environment for Android
+TerminalX is a clean, minimal, and fully original terminal environment built for Android.
+It focuses on speed, stability, and a modern user experience without neon effects or AI‑styled visuals.
+Designed as a personal production project, TerminalX delivers a lightweight command interface that feels simple, fast, and reliable.
+
+✨ Features
+Modern UI — clean, minimal, human‑built
+
+Fast startup and smooth performance
+
+Lightweight footprint
+
+Stable command execution
+
+Fully original design (not based on Termux or any fork)
+
+No AI glow, no hacker aesthetic — just a clean terminal
+
+📦 Download
+You can download the latest TerminalX APK from the Releases section.
+
+Code
+Latest Version: v1.0  
+Platform: Android  
+Status: Production  
+Once the APK is uploaded, the download button will be added here.
+
+📁 Project Structure
+TerminalX is organized for clarity and long‑term development:
+
+/app — core Android app
+
+/ui — interface components
+
+/assets — icons, visuals, branding
+
+/docs — project documentation
+
+/release — APK builds
+
+If you want, I can generate a full repo layout:
+Create TerminalX repo structure
+
+🧩 Vision
+TerminalX aims to be a stable, modern terminal environment that feels clean and simple.
+No clutter, no unnecessary features — just a smooth terminal experience built from scratch.
+
+Future improvements may include:
+
+UI refinements
+
+Command extensions
+
+Optional modules
+
+CloudZIP integration
+
+🔧 Installation
+Once the APK is uploaded:
+
+Code
+1. Download the APK from Releases  
+2. Open it on your Android device  
+3. Allow installation from unknown sources  
+4. Launch TerminalX  
+📜 License
+TerminalX is a non‑commercial personal project.
+You may explore the code, but redistribution or commercial use is not permitted.
+
+🏷️ Branding
+TerminalX uses a modern, minimal identity with human‑built design principles.
+If you want a logo section added, choose:
+Design TerminalX logo
+
+📣 Contact
+Updates and announcements will be posted on the TerminalX GitHub and X profile.
