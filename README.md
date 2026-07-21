@@ -1,6 +1,6 @@
 # TerminalX — Modern Terminal Environment for Android
 
-# App Download: https://github.com/DevTerminalX/TerminalX-Download/releases/tag/Download
+App Download: https://github.com/DevTerminalX/TerminalX-Download/releases/tag/Download
 
 TerminalX is a clean, minimal, and fully original terminal environment built for Android.
 It focuses on speed, stability, and a modern user experience without neon effects or AI‑styled visuals.
